@@ -32,7 +32,7 @@ const styles = {
     transitionTimingFunction: 'ease',
   },
   animationOpen: {
-    transform: 'scale(1)',
+    transform: 'scale(1) translate(-50%, -50%)',
     transitionProperty: 'transform',
     transitionTimingFunction: 'ease',
   },
